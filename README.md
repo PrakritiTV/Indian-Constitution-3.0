@@ -1,3 +1,6 @@
+
+![InShot_20250325_200615651](https://github.com/user-attachments/assets/83189227-ad4d-4855-833c-ff636d066c7d)
+
 Below is a draft outline for the Constitution of India 3.0 Alpha Version, designed to reimagine India’s constitutional framework with a people-driven engagement model inspired by code commits on platforms like GitHub or GitLab. This version empowers every Indian citizen and Non-Resident Indian (NRI) to suggest changes, incorporates a hierarchical approval process involving local leaders (Lokpals) at the street, village, city, and state levels, and leverages advanced technology—blockchain and AI—to ensure transparency, inclusivity, and efficiency. The constitution aims to minimize corruption, promote harmony, maintain law and order with minimal expense, and support free education and universal basic income, all while being accessible in vernacular languages through a dedicated Constitution app.
 
 Constitution of India 3.0 Alpha Version: Draft Outline
