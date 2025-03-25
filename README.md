@@ -4,8 +4,9 @@ Constitution of India 3.0 Alpha Version: Draft Outline
 Preamble
 We, the people of India, resolve to constitute India into a Sovereign Socialist Secular Democratic Republic powered by technology and citizen participation, ensuring justice, liberty, equality, and fraternity for all. Through this Constitution, we adopt a transparent, inclusive, and innovative framework to secure dignity, harmony, and progress for every Indian, irrespective of religion, caste, creed, or origin, with the aid of artificial intelligence and blockchain for governance and engagement.
 
-Key Features
+Key Features:
 People Engagement Model
+
 Every Indian citizen and NRI can propose amendments via a digital platform, similar to submitting pull requests on GitHub or GitLab.
 A hierarchical approval process ensures grassroots participation:
 Street/Block Level: Lokpals review and approve suggestions.
@@ -13,11 +14,13 @@ Village Level: Panchayats or local bodies assess proposals.
 City Level: Municipal councils evaluate suggestions.
 State Level: State assemblies provide final regional approval.
 National Level: A Constitutional Review Committee and national referendum finalize changes.
+
 Technological Backbone
 Blockchain: Hosts the constitution, ensuring transparency, security, and an immutable record of amendments.
 AI: Powers voting, analyzes suggestions, offers improvement recommendations, and provides karma alerts and warnings via the Constitution app.
 Constitution App: A mobile and web platform for submitting proposals, voting, accessing the constitution, and receiving updates in vernacular languages.
 Inclusivity
+
 Supports all official Indian languages with AI-driven real-time translation.
 Caters to all communities—scientists, coders, Adivasis, spiritual leaders, and more—ensuring no one is excluded.
 Core Goals
@@ -25,6 +28,7 @@ Minimum Corruption: Achieved through transparent processes and decentralized gov
 Harmony and Law and Order: Fostered by inclusive participation and community dialogue tools.
 Free Education and Universal Basic Income: Enshrined as state responsibilities.
 Pre-Warnings and Karma: AI alerts citizens of potential punishments and rewards positive contributions.
+
 Draft Structure
 Part I: The Union and its Territory
 Provisions for digital governance and decentralized administration across states and union territories.
@@ -48,6 +52,7 @@ It shall be the duty of every citizen to engage in the constitutional amendment 
 Part XXA: Technological Governance and Citizen Engagement (New)
 Article 368A: Amendment by Popular Initiative
 Any citizen or NRI may propose amendments through the Constitution app, specifying the article to amend, the proposed change, and a rationale.
+
 Proposals undergo a hierarchical review:
 Street/Block Lokpals
 Village Panchayats
